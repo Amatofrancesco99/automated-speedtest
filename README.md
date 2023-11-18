@@ -42,7 +42,7 @@ Ensure the speed test is conducted with a LAN connection or as close as possible
 
 ## Script Details
 
-### Bash Script: [`speed_test.sh`](speedtest.sh)
+### Bash Script: [`speedtest.sh`](speedtest.sh)
 * Periodically runs the speed test using `speedtest-cli`
 * Appends the results to `history.csv` file
 * Executes `store_data_gdrive.py` to store gathered data to Google Drive daily, at 5AM.
