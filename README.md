@@ -11,7 +11,7 @@
 
 ## Overview
 
-> The Automatic Speed Test is a script designed to periodically measure and record internet connection speed metrics, including ping, download, and upload speeds. This project aims to address potential discrepancies between the promised and actual internet speeds provided by service providers. The gathered data can be leveraged for analytics and visualization through a dashboard generated with Tableau, utilizing Google Drive for data storage.
+> The Automated Speedtest is a script designed to periodically measure and record internet connection speed metrics, including ping, download, and upload speeds. This project aims to address potential discrepancies between the promised and actual internet speeds provided by service providers. The gathered data can be leveraged for analytics and visualization through a dashboard generated with Tableau, utilizing Google Drive for data storage.
 
 ## Prerequisites
 
