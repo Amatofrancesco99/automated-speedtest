@@ -31,7 +31,7 @@ cd automated-speedtest
 
 2. Setup credentials (later on described) and execute the speed test script:
 ```bash
-./speed_test.sh
+./speedtest.sh
 ```
 The script will continuously run speed tests at specific intervals, storing the results in a CSV file named `history.csv`. <br>
 Ensure the speed test is conducted with a LAN connection or as close as possible to the Wi-Fi router for accurate results.
