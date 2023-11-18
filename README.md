@@ -60,8 +60,8 @@ If you have issues, for example on how to obtain the credentials json file, here
 
 ## Disclaimer
 
-The authors and contributors of the Automatic Speed Test project explicitly state that they do not assume any responsibility for the distribution, execution, or consequences arising from the use of this software. Users are encouraged to review and comply with the terms and conditions of relevant service providers and adhere to local regulations regarding network testing.
+The authors and contributors of the Automated Speedtest project explicitly state that they do not assume any responsibility for the distribution, execution, or consequences arising from the use of this software. Users are encouraged to review and comply with the terms and conditions of relevant service providers and adhere to local regulations regarding network testing.
 
-By utilizing this software, users agree to do so at their own risk and acknowledge that the authors and contributors shall not be held liable for any issues, disruptions, or inaccuracies in the data collected by the Automatic Speed Test project.
+By utilizing this software, users agree to do so at their own risk and acknowledge that the authors and contributors shall not be held liable for any issues, disruptions, or inaccuracies in the data collected by the Automated Speedtest project.
 
 Please exercise caution and responsibility when using this tool.
