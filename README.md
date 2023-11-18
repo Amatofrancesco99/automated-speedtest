@@ -29,7 +29,7 @@ git clone https://github.com/Amatofrancesco99/automated-speedtest.git
 cd automated-speedtest
 ```
 
-2. Execute the speed test script:
+2. Setup credentials (later on described) and execute the speed test script:
 ```bash
 ./speed_test.sh
 ```
@@ -56,7 +56,7 @@ Ensure the speed test is conducted with a LAN connection or as close as possible
 * Imports the CSV data into the Google Sheets spreadsheet
 * Logs errors, if any, during the upload process
 
-If you have issues, for example on how to obtain the credentials json file, here's a useful description: [csv-to-gsheet-python]((https://medium.com/craftsmenltd/from-csv-to-google-sheet-using-python-ef097cb014f9)).
+If you have issues, for example on how to obtain the credentials json file, here's a useful description: [csv-to-gsheet-python](https://medium.com/craftsmenltd/from-csv-to-google-sheet-using-python-ef097cb014f9).
 
 ## Disclaimer
 
