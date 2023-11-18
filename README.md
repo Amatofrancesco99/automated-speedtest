@@ -15,7 +15,7 @@
 
 ## Prerequisites
 
-Before using the Automatic Speed Test, ensure you have the following dependencies installed:
+Before using the Automated Speedtest, ensure you have the following dependencies installed:
 
 ```bash
 pip install speedtest-cli gspread oauth2client
@@ -25,8 +25,8 @@ pip install speedtest-cli gspread oauth2client
 
 1. Clone the repository:
 ```bash 
-git clone https://github.com/your-username/automatic-speed-test.git
-cd automatic-speed-test
+git clone https://github.com/Amatofrancesco99/automated-speedtest.git
+cd automated-speedtest
 ```
 
 2. Execute the speed test script:
